@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fantasy.Backend", "Fantasy.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fantasy.FrontEnd", "Fantasy.FrontEnd\Fantasy.FrontEnd.csproj", "{2419B806-E32A-467C-A510-0A3E1D1B92D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fantasy.Shared", "Fantasy.Shared\Fantasy.Shared.csproj", "{B5A8A16D-E0AA-49EE-92F7-821B6FB52CEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fanstasy.Tests", "Fanstasy.Tests\Fanstasy.Tests.csproj", "{68E73F8F-9B36-453B-9EAB-ED9411260F67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{2419B806-E32A-467C-A510-0A3E1D1B92D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2419B806-E32A-467C-A510-0A3E1D1B92D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2419B806-E32A-467C-A510-0A3E1D1B92D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5A8A16D-E0AA-49EE-92F7-821B6FB52CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A8A16D-E0AA-49EE-92F7-821B6FB52CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A8A16D-E0AA-49EE-92F7-821B6FB52CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A8A16D-E0AA-49EE-92F7-821B6FB52CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68E73F8F-9B36-453B-9EAB-ED9411260F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68E73F8F-9B36-453B-9EAB-ED9411260F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68E73F8F-9B36-453B-9EAB-ED9411260F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68E73F8F-9B36-453B-9EAB-ED9411260F67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
